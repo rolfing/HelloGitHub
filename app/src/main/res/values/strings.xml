@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GitHub Demo App</string>
     <string name="home_screen_text">Hello GitHub!</string>
+    <string name="home_btn_text">Clicke Me</string>
 </resources>
